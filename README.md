@@ -1,4 +1,4 @@
-# Task 5 (saves an integer number in the database)
+# Task 5 (save an integer number in the database)
 
 • Make a web page that does a GET for a sensor value (any value of type integer) e Make a database of any type
 
